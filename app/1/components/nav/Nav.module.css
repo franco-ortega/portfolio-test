@@ -1,5 +1,7 @@
 .Nav {
   background-color: blanchedalmond;
+  min-width: fit-content;
+  width: 10%;
 }
 
 .Nav ul {
