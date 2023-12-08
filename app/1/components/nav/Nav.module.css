@@ -1,5 +1,5 @@
 .Nav {
-  /* background-color: blanchedalmond; */
+  background-color: black;
   min-width: fit-content;
   width: 10%;
 }
@@ -12,5 +12,5 @@
 }
 
 .Nav li {
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
 }
