@@ -14,3 +14,7 @@
 .Nav li {
   text-align: center;
 }
+
+.Nav a {
+  color: lightblue;
+}
