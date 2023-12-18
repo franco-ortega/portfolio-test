@@ -11,7 +11,7 @@ export default function Nav() {
         <li>
           <Link href={'/1/profile'}>Profile</Link>
         </li>
-        <li>Link 2</li>
+        <Link href={'/'}>Return</Link>
         <li>Link 3</li>
         <li>Link 4</li>
         <li>Link 5</li>
