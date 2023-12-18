@@ -1,0 +1,20 @@
+.TestList {
+  text-align: center;
+}
+
+.TestList h2 {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.TestList ul {
+  padding-block: 0.5rem;
+}
+
+.TestList a {
+  color: purple;
+}
+
+.TestList a:hover {
+  color: red;
+}
