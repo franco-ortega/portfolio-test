@@ -1,5 +1,5 @@
 import styles from './page.module.css';
-import TestList from './src/components/TestList';
+import TestList from './src/components/testList/TestList';
 
 export default function Home() {
   return (
