@@ -1,8 +1,9 @@
 .layout {
   background-color: purple;
-}
+  color: aqua;
 
-.layout body {
+  height: 100%;
+
   display: grid;
   grid-template-columns: auto 1fr;
 }
