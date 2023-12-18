@@ -1,8 +1,9 @@
 import Link from 'next/link';
+import styles from './TestList.module.css';
 
 export default function TestList() {
   return (
-    <div>
+    <div className={styles.TestList}>
       <h2>Test List</h2>
       <ul>
         <li>
