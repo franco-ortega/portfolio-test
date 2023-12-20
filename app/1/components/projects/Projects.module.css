@@ -1,7 +1,7 @@
 .Projects {
   color: hsl(0, 0%, 10%);
-  min-width: 25rem;
   padding-inline: 1rem;
+  min-width: 30rem;
 }
 
 .Projects h1 {
