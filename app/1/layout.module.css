@@ -2,7 +2,7 @@
   background-color: purple;
   color: aqua;
 
-  height: 100%;
+  height: 100vh;
 
   display: grid;
   grid-template-columns: auto 1fr;
