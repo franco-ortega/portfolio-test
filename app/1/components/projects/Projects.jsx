@@ -1,11 +1,15 @@
+import Project from '../project/Project';
+import styles from './Projects.module.css';
+
 export default function Projects() {
   return (
-    <main>
+    <main className={styles.Projects}>
       <h1>Projects</h1>
       <ul>
-        <li>
-          <div>PROJECT 1</div>
-        </li>
+        <Project
+          title={'Project 1'}
+          description={'This project is awesome and does really good stuff.'}
+        />
         <li>
           <div>PROJECT 2</div>
         </li>

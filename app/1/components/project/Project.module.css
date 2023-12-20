@@ -1,0 +1,20 @@
+.Project {
+  border: 0.25rem solid blue;
+  border-radius: 0.25rem;
+
+  background-color: lightslategray;
+
+  width: 15rem;
+  aspect-ratio: 2/1;
+
+  margin: 1rem;
+  padding: 0.5rem;
+}
+
+.Project h2 {
+  width: fit-content;
+  margin-inline: auto;
+
+  font-size: 1.25rem;
+  font-weight: 500;
+}
