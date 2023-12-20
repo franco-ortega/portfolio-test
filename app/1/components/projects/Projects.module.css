@@ -1,5 +1,7 @@
 .Projects {
   color: hsl(0, 0%, 10%);
+  min-width: 30rem;
+  overflow: hidden;
 }
 
 .Projects h1 {
