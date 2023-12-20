@@ -1,3 +1,13 @@
 .Projects {
-  color: lightgreen;
+  color: hsl(0, 0%, 10%);
+  padding-inline: 1rem;
+  min-width: 30rem;
+}
+
+.Projects h1 {
+  width: fit-content;
+  margin-block: 1rem;
+  margin-inline: auto;
+  font-size: 3rem;
+  font-weight: 600;
 }

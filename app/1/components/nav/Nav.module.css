@@ -1,7 +1,7 @@
 .Nav {
   background-color: black;
   min-width: fit-content;
-  width: 10%;
+  min-width: 8rem;
 }
 
 .Nav ul {
