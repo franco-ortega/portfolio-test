@@ -7,8 +7,20 @@
   gap: 1rem;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50rem) {
   .ProjectsList {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 75rem) {
+  .ProjectsList {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 95rem) {
+  .ProjectsList {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
