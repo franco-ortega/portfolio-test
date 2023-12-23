@@ -1,9 +1,9 @@
-import styles from './page.module.css';
+import Home from './components/home/Home';
 
-export default function test1() {
+export default function Home1() {
   return (
-    <div className={styles.test1}>
-      This will be the first Portfolio test site. It is located in directory 1.
+    <div>
+      <Home />
     </div>
   );
 }
